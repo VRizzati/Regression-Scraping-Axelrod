@@ -55,4 +55,5 @@ Finally, I experimented a Ridge regularization on the model and compared it to t
 ## Communication
 The output of this project is showcased in the presentation included in this repo. 
 
-As a complement, see below the diagnostic plots. ![diagnostic plots](diagnostic_plots.png)
+As a complement, see below the diagnostic plots.
+<img width="1074" alt="diagnostic_plots" src="https://user-images.githubusercontent.com/68084582/120348201-f7b5c800-c2ca-11eb-9c3b-4ae9dfecab60.png">
