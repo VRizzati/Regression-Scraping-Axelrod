@@ -1,6 +1,5 @@
 # The NYC launch of Axelrod Development Group
 
-Valentina Rizzati
 
 ## Abstract
 For the launch of Axelrod Development Group (Axelrod) in NYC, I have been asked to support in analyzing the NY Real Estate market on the sellers side and provide both an interpretation of  what are the factors driving the largest impact on property prices as well as building a model for the Investment team to get an estimate of property price based on the inputted features.<br/>
